@@ -1,0 +1,27 @@
+      Gasage (yr BP)  CO2 (ppmv)  sigma mean CO2 (ppmv)     Bag     ztop  \
+0         -51.030000  368.022488               0.060442     NaN      NaN   
+1         -48.000000  361.780737               0.370000     NaN      NaN   
+2         -46.279272  359.647793               0.098000     NaN      NaN   
+3         -44.405642  357.106740               0.159923     NaN      NaN   
+4         -43.080000  353.946685               0.043007     NaN      NaN   
+...              ...         ...                    ...     ...      ...   
+5795             NaN         NaN                    NaN  5796.0  3187.25   
+5796             NaN         NaN                    NaN  5797.0  3187.80   
+5797             NaN         NaN                    NaN  5798.0  3188.35   
+5798             NaN         NaN                    NaN  5799.0  3188.90   
+5799             NaN         NaN                    NaN  5800.0  3189.45   
+
+           Age  Deuterium  Temperature  
+0          NaN        NaN          NaN  
+1          NaN        NaN          NaN  
+2          NaN        NaN          NaN  
+3          NaN        NaN          NaN  
+4          NaN        NaN          NaN  
+...        ...        ...          ...  
+5795  797408.0    -440.20        -8.73  
+5796  798443.0    -439.00        -8.54  
+5797  799501.0    -441.10        -8.88  
+5798  800589.0    -441.42        -8.92  
+5799  801662.0    -440.90        -8.82  
+
+[7701 rows x 8 columns]
