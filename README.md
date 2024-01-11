@@ -28,32 +28,18 @@ Programming for Data Analysis Project 2
 <p>For this module I created one notebook called Programming-for-Data-Analysis-Project-2.</p>
 
 <p>
-<li></li>
-<li></li>
-</p>
-<p> The tasks section scope is as follows
-<ol>
-<li> </li>
-====================================================================================
-<li> </li>
-====================================================================================
-<li>  </li> 
-====================================================================================
-<li>  </li> 
-===================================================================================
-<li>   </li>
-===================================================================================
-</ol>
-</p>
+The layout of this project is as follows:</p>
 
-<p> The project scope is as follows
 <ol>
-<li>  </li>
-<li> </li>
-<li>  </li>   
-<li>  </li> 
-<li> 
-</li>
+<li> 1. What is Palaeoclimatology, </li>
+<li> 2. Analyse CO2 vs Temperature Anomaly from 800kyrs – present. </li>
+<li> 3. Examine one other (paleo/modern) features (e.g. CH4 or polar ice-coverage) </li>
+<li> 4. Examine Irish context: </li>
+<li> 5. Fuse and analyse data from various data sources and format fused data set as a pandas dataframe and export to csv and json formats  </li> 
+<li> 6. For all of the above variables, analyse the data, the trends and the relationships between them (temporal leads/lags/frequency analysis).  </li> 
+<li> 7. Predict global temperature anomaly over next few decades (synthesise data) and compare to published climate models if atmospheric CO2 trends continue   </li>
+<li> 8. Comment on accelerated warming based on very latest features (e.g. temperature/polar-icecoverage) </li>
+<li> 9. Conclusion </li>
 </ol>
 </p>
 
@@ -67,11 +53,10 @@ Programming for Data Analysis Project 2
 
 # Additional Information #
 <ol>
-<li> My github repository is @ <a href="#"></a></li>
+<li> My github repository is @ <a href="#">https://github.com/dectan/Programming-for-Data-Analysis-Project-2</a></li>
 <li> My github Repository is called "Programming-for-Data-Analysis-Project-2</li>
-<li> This repository contains a .gitignore file, 1 *  Jupyter notebook, and a readme file and a folder with images. </li>   
-<li> My Jupyter notebooks are called "ipynb"</li> 
-<li> There are no additional files required to run program as dataset is loaded from seaborn </li>
+<li> This repository contains a .gitignore file, 1 *  Jupyter notebook named 'Project 2.ipynb', and a README file, a folder called 'imported_datasets' which contains all imported datasets, a folder called 'fused datasets' which contains all fused datasets and a folder called 'img which contains images. </li>    
+<li> These are all the additional files required to run program </li>
 <li> images are stored in a folder called "img" in this repository </li>
 <li> Libraries that need to be imported are contained in first *text* cell of both Jupyter notebooks </li> 
 </ol>
@@ -87,19 +72,13 @@ Programming for Data Analysis Project 2
 <li>import seaborn as sns</li>
 <p>Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.It is designed to work well with dataframes from Pandas</p>
 <li>from sklearn.linear_model import LinearRegression</li>
-<p>LinearRegression fits a linear model with coefficients w = (w1, …, wp) to minimize the residual sum of squares between the observed targets in the dataset, and the targets predicted by the linear approximation. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html</p>
+<p>LinearRegression fits a linear model with coefficients w = (w1, …, wp) to minimize the residual sum of squares between the observed targets in the dataset, and the targets predicted by the linear approximation.[23] *sklearn.linear_model.LinearRegression*, scikit-learn, https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html</p>
 <li>from scipy.fft import fft, fftfreq</li>
 <p>Return the Discrete Fourier Transform sample frequencies.</p>
 <li>from scipy import signal</li>
-<p>to modify, analyze and process the signal https://pythonguides.com/scipy-signal/</p> 
+<p>to modify, analyze and process the signal [24] *Scipy Signal – Helpful Tutorial*, pythonguides, https://pythonguides.com/scipy-signal/</p> 
 <li>import json</li>
-<p>SON  (JavaScript Object Notation) is a file that is mainly used to store and transfer data mostly between a server and a web application. It is popularly used for representing structured data.</p> 
+<p> JSON  (JavaScript Object Notation) is a file that is mainly used to store and transfer data mostly between a server and a web application. It is popularly used for representing structured data.</p> 
 <li></li>
 <p></p> 
-
-
-
-
-
-
 </ol>
