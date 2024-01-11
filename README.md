@@ -30,7 +30,7 @@ Programming for Data Analysis Project 2
 <p>
 The layout of this project is as follows:</p>
 
-<ol>
+
 <li> 1. What is Palaeoclimatology, </li>
 <li> 2. Analyse CO2 vs Temperature Anomaly from 800kyrs – present. </li>
 <li> 3. Examine one other (paleo/modern) features (e.g. CH4 or polar ice-coverage) </li>
@@ -40,7 +40,7 @@ The layout of this project is as follows:</p>
 <li> 7. Predict global temperature anomaly over next few decades (synthesise data) and compare to published climate models if atmospheric CO2 trends continue   </li>
 <li> 8. Comment on accelerated warming based on very latest features (e.g. temperature/polar-icecoverage) </li>
 <li> 9. Conclusion </li>
-</ol>
+
 </p>
 
 # How to run program #
@@ -54,10 +54,13 @@ The layout of this project is as follows:</p>
 # Additional Information #
 <ol>
 <li> My github repository is @ <a href="#">https://github.com/dectan/Programming-for-Data-Analysis-Project-2</a></li>
-<li> My github Repository is called "Programming-for-Data-Analysis-Project-2</li>
-<li> This repository contains a .gitignore file, 1 *  Jupyter notebook named 'Project 2.ipynb', and a README file, a folder called 'imported_datasets' which contains all imported datasets, a folder called 'fused datasets' which contains all fused datasets and a folder called 'img which contains images. </li>    
+<li> My github Repository is called "Programming-for-Data-Analysis-Project-2</li>   
+<li> This repository contains a .gitignore file, and a README file, </li> 
+<li> This repository contains 1 *  Jupyter notebook named 'Project 2.ipynb'.</li> 
+<li> This repository contains a folder called 'imported_datasets' which contains all imported datasets</li> 
+<li> This repository contains a folder called 'fused datasets' which contains all fused datasets in .csv and .json format. and a folder called 'img which contains images.</li>   
+<li> This repository contains a folder 'img which contains images used in notebook</li>     
 <li> These are all the additional files required to run program </li>
-<li> images are stored in a folder called "img" in this repository </li>
 <li> Libraries that need to be imported are contained in first *text* cell of both Jupyter notebooks </li> 
 </ol>
 
@@ -79,6 +82,5 @@ The layout of this project is as follows:</p>
 <p>to modify, analyze and process the signal [24] *Scipy Signal – Helpful Tutorial*, pythonguides, https://pythonguides.com/scipy-signal/</p> 
 <li>import json</li>
 <p> JSON  (JavaScript Object Notation) is a file that is mainly used to store and transfer data mostly between a server and a web application. It is popularly used for representing structured data.</p> 
-<li></li>
 <p></p> 
 </ol>
